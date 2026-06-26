@@ -1,4 +1,5 @@
 # DNA Sequence Analyzer
+
 A beginner bioinformatics project written in Python.
 
 ## Description
